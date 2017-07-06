@@ -1,0 +1,348 @@
+{"data": [{
+    "id": 1,
+    "name": "Era Restaurant",
+    "address": {},
+    "currency_symbol": "LEK",
+    "geolocation": {
+        "latitude": 50.8463477,
+        "longitude": 5.6870908
+    },
+    "photo": "photo-url",
+    "minimum_order": 100,
+    "price_range": 2,
+    "rating": 80,
+    "available_for": {
+        "pickup": true,
+        "delivery": true
+    },
+    "menu": [
+        {
+            "id": 1,
+            "name": "Mengjesi",
+            "items": [
+                {
+                    "id": 1,
+                    "name": "french toast",
+                    "description": "desc...",
+                    "additions": [
+                        {
+                            "name": "mjalt",
+                            "price": 10
+                        },
+                        {
+                            "name": "extra-cheese",
+                            "price": 25
+                        }
+                    ],
+                    "image": "image-link",
+                    "price": 120
+                },
+                {
+                    "id": 2,
+                    "name": "albanian toast",
+                    "description": "desc...",
+                    "additions": [
+                        {
+                            "name": "mjalt",
+                            "price": 10
+                        },
+                        {
+                            "name": "extra-cheese",
+                            "price": 25
+                        }
+                    ],
+                    "image": "image-link",
+                    "price": {
+                        "small": 120,
+                        "large": 200
+                    }
+                }
+            ]
+        }
+    ],
+    "maintainers": [],
+    "categories": [
+        {
+            "id": 10,
+            "name": "ItalianCuisine",
+            "photo": "......"
+        }
+    ],
+    "opening_hours": [
+        {
+            "day": 0,
+            "closed": false,
+            "open_at": "12:00",
+            "close_at": "15:00"
+        },
+        {
+            "day": 1,
+            "closed": false,
+            "open_at": "12:00",
+            "close_at": "15:00"
+        },
+        {
+            "day": 2,
+            "closed": false,
+            "open_at": "12:00",
+            "close_at": "15:00"
+        },
+        {
+            "day": 3,
+            "closed": false,
+            "open_at": "12:00",
+            "close_at": "15:00"
+        },
+        {
+            "day": 4,
+            "closed": false,
+            "open_at": "12:00",
+            "close_at": "15:00"
+        },
+        {
+            "day": 5,
+            "closed": false,
+            "open_at": "12:00",
+            "close_at": "15:00"
+        },
+        {
+            "day": 6,
+            "closed": false,
+            "open_at": "12:00",
+            "close_at": "15:00"
+        }
+    ]
+}
+,{
+    "id": 2,
+    "name": "Era2 Restaurant",
+    "address": {},
+    "currency_symbol": "LEK",
+    "geolocation": {
+        "latitude": 50.8463477,
+        "longitude": 5.6870908
+    },
+    "photo": "photo-url",
+    "minimum_order": 100,
+    "price_range": 2,
+    "rating": 80,
+    "available_for": {
+        "pickup": true,
+        "delivery": true
+    },
+    "menu": [
+        {
+            "id": 1,
+            "name": "Mengjesi",
+            "items": [
+                {
+                    "id": 1,
+                    "name": "french toast",
+                    "description": "desc...",
+                    "additions": [
+                        {
+                            "name": "mjalt",
+                            "price": 10
+                        },
+                        {
+                            "name": "extra-cheese",
+                            "price": 25
+                        }
+                    ],
+                    "image": "image-link",
+                    "price": 120
+                },
+                {
+                    "id": 2,
+                    "name": "albanian toast",
+                    "description": "desc...",
+                    "additions": [
+                        {
+                            "name": "mjalt",
+                            "price": 10
+                        },
+                        {
+                            "name": "extra-cheese",
+                            "price": 25
+                        }
+                    ],
+                    "image": "image-link",
+                    "price": {
+                        "small": 120,
+                        "large": 200
+                    }
+                }
+            ]
+        }
+    ],
+    "maintainers": [],
+    "categories": [
+        {
+            "id": 10,
+            "name": "ItalianCuisine",
+            "photo": "......"
+        }
+    ],
+    "opening_hours": [
+        {
+            "day": 0,
+            "closed": false,
+            "open_at": "12:00",
+            "close_at": "15:00"
+        },
+        {
+            "day": 1,
+            "closed": false,
+            "open_at": "12:00",
+            "close_at": "15:00"
+        },
+        {
+            "day": 2,
+            "closed": false,
+            "open_at": "12:00",
+            "close_at": "15:00"
+        },
+        {
+            "day": 3,
+            "closed": false,
+            "open_at": "12:00",
+            "close_at": "15:00"
+        },
+        {
+            "day": 4,
+            "closed": false,
+            "open_at": "12:00",
+            "close_at": "15:00"
+        },
+        {
+            "day": 5,
+            "closed": false,
+            "open_at": "12:00",
+            "close_at": "15:00"
+        },
+        {
+            "day": 6,
+            "closed": false,
+            "open_at": "12:00",
+            "close_at": "15:00"
+        }
+    ]
+},
+{
+    "id": 3,
+    "name": "Era3 Restaurant",
+    "address": {},
+    "currency_symbol": "LEK",
+    "geolocation": {
+        "latitude": 50.8463477,
+        "longitude": 5.6870908
+    },
+    "photo": "photo-url",
+    "minimum_order": 100,
+    "price_range": 2,
+    "rating": 80,
+    "available_for": {
+        "pickup": true,
+        "delivery": true
+    },
+    "menu": [
+        {
+            "id": 1,
+            "name": "Mengjesi",
+            "items": [
+                {
+                    "id": 1,
+                    "name": "french toast",
+                    "description": "desc...",
+                    "additions": [
+                        {
+                            "name": "mjalt",
+                            "price": 10
+                        },
+                        {
+                            "name": "extra-cheese",
+                            "price": 25
+                        }
+                    ],
+                    "image": "image-link",
+                    "price": 120
+                },
+                {
+                    "id": 2,
+                    "name": "albanian toast",
+                    "description": "desc...",
+                    "additions": [
+                        {
+                            "name": "mjalt",
+                            "price": 10
+                        },
+                        {
+                            "name": "extra-cheese",
+                            "price": 25
+                        }
+                    ],
+                    "image": "image-link",
+                    "price": {
+                        "small": 120,
+                        "large": 200
+                    }
+                }
+            ]
+        }
+    ],
+    "maintainers": [],
+    "categories": [
+        {
+            "id": 10,
+            "name": "ItalianCuisine",
+            "photo": "......"
+        }
+    ],
+    "opening_hours": [
+        {
+            "day": 0,
+            "closed": false,
+            "open_at": "12:00",
+            "close_at": "15:00"
+        },
+        {
+            "day": 1,
+            "closed": false,
+            "open_at": "12:00",
+            "close_at": "15:00"
+        },
+        {
+            "day": 2,
+            "closed": false,
+            "open_at": "12:00",
+            "close_at": "15:00"
+        },
+        {
+            "day": 3,
+            "closed": false,
+            "open_at": "12:00",
+            "close_at": "15:00"
+        },
+        {
+            "day": 4,
+            "closed": false,
+            "open_at": "12:00",
+            "close_at": "15:00"
+        },
+        {
+            "day": 5,
+            "closed": false,
+            "open_at": "12:00",
+            "close_at": "15:00"
+        },
+        {
+            "day": 6,
+            "closed": false,
+            "open_at": "12:00",
+            "close_at": "15:00"
+        }
+    ]
+}
+
+]
+}
